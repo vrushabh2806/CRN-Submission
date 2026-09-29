@@ -1,0 +1,18 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+.DS_Store
+logs/
+*.log
+secrets.json
+.env
+
+# NuGet
+*.nupkg
+*.nuspec
+.nuget/
+
+# Docker
+.dockerignore
